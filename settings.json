@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "aeruassistant",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "allrounderop09.aternos.me",
-    "port": 34804,
+    "ip": "dreamwrold.aternos.me",
+    "port": 49502,
     "version": "1.21.1"
   },
   "position": {
