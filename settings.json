@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "happybot2",
+    "username": "aeruassistant",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "SoulSociety07.aternos.me",
-    "port": 21112,
+    "ip": "dreamwrold.aternos.me",
+    "port": 49502,
     "version": "1.21.1"
   },
   "position": {
