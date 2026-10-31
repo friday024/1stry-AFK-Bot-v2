@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "bot1",
+    "username": "aeruassistant",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Warriorsmp-akFG.aternos.me",
-    "port": 19284,
+    "ip": "dreamwrold.aternos.me",
+    "port": 49502,
     "version": "1.21.1"
   },
   "position": {
