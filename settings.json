@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "soumpurbot",
+    "username": "bot1",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "soumpur.aternos.me",
-    "port": 61258,
+    "ip": "Dracoiz.aternos.me",
+    "port": 39035,
     "version": "1.21.1"
   },
   "position": {
